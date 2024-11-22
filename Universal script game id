@@ -1,0 +1,4 @@
+if game.PlaceId == 18343388756 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Imellokeik/soul-ops-replicated3/refs/heads/main/soul%20ops%20replicated"))()
+elseif game.PlaceId == 5766084948 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Imellokeik/scp-red-lake123/refs/heads/main/scp%20red%20lake"))()
