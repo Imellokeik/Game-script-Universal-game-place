@@ -4,4 +4,6 @@ elseif game.PlaceId == 98037504667818 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Imellokeik/Idk.rng/refs/heads/main/Idk.rng"))() -- IDK.rng: Reimagined
 elseif game.PlaceId == 15311521477 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Imellokeik/sans.rng/refs/heads/main/sans.rng"))() -- sans.rng [original]
+elseif game.PlaceId == 11854016673 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Imellokeik/sfbr-remove-attack/refs/heads/main/sfbr%20attack%20remove"))()
 end
