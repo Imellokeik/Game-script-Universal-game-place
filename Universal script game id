@@ -6,4 +6,6 @@ elseif game.PlaceId == 15311521477 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Imellokeik/sans.rng/refs/heads/main/sans.rng"))() -- sans.rng [original]
 elseif game.PlaceId == 11854016673 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Imellokeik/sfbr-remove-attack/refs/heads/main/sfbr%20attack%20remove"))() -- Sans Funny Boss Rush
+elseif game.PlaceId == 132055234159630 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Imellokeik/Sans-Multiverse-Randomizer/refs/heads/main/Sans%20Multiverse%3A%20Randomizer"))() -- SM:R
 end
