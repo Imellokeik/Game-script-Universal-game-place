@@ -10,6 +10,4 @@ elseif game.PlaceId == 132055234159630 or game.PlaceId == 94606173225020 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Imellokeik/Sans-Multiverse-Randomizer/refs/heads/main/Sans%20Multiverse%3A%20Randomizer"))() -- SM:R
 elseif game.PlaceId == 15525358110 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Imellokeik/Giga-sans.rng/refs/heads/main/Giga!sans.rng"))()
-elseif game.PlaceId == 17724055955 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Imellokeik/Undertale-Multiverse-Simulator-Fdy-sans-event-script/refs/heads/main/fdy%20event%20script"))() -- Fdy sans event SMS
 end
