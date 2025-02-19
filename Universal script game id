@@ -10,6 +10,6 @@ elseif game.PlaceId == 132055234159630 or game.PlaceId == 94606173225020 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Imellokeik/Sans-Multiverse-Randomizer/refs/heads/main/Sans%20Multiverse%3A%20Randomizer"))() -- SM:R
 elseif game.PlaceId == 15525358110 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Imellokeik/Giga-sans.rng/refs/heads/main/Giga!sans.rng"))()
-elseif game.PlaceId == 602853446 then
+elseif game.PlaceId == 602853446 or game.PlaceId == 880176772 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Imellokeik/3DBB-Script-Lite/refs/heads/main/3DBB%20Lite"))()
 end
